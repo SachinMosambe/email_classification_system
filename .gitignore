@@ -1,0 +1,5 @@
+# Ignore Python virtual environment
+venv/
+
+# Ignore fine_tune_robota directory (not the .py file)
+fine_tune_robota/
