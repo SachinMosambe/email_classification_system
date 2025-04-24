@@ -121,6 +121,7 @@ You can deploy this system on **Hugging Face Spaces**. Hugging Face automaticall
 The project consists of the following key files:
 
 - **`app.py`**: Contains the core email classification logic.
+-  **`fine_tune_roberta`**: Contains finetune ROBERTA model.
 - **`api.py`**: FastAPI application and API endpoints.
 - **`models.py`**: Model training, fine-tuning, and prediction logic.
 - **`utils.py`**: Utility functions, including PII masking logic.
