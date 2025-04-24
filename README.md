@@ -126,5 +126,6 @@ The project consists of the following key files:
 - **`models.py`**: Model training, fine-tuning, and prediction logic.
 - **`utils.py`**: Utility functions, including PII masking logic.
 - **`requirements.txt`**: Python dependencies for the project.
+-  **`Dockerfile`**: for deployment of api to huggingface.
 
 
